@@ -16,24 +16,6 @@
 
 
 
-## INSTALLATION  :
-
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install git -y`
-* `pkg insall python -y`
-* `pip install requests`
-* ` git clone https://github.com/mao2116/mbomb`
-* `cd mbomb`
-* `ls`
-
-## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && pkg install python && pip install requests && git clone https://github.com/mao2116/mbomb && cd mbomb`
-
-
-## FOR RUN TOOL :
-* `cd mbomb`
-* `python maous.py`
 
 
 
