@@ -1,4 +1,6 @@
-<h2>
+<h1>[ ! ] OUT OF RANGE [ ! ]</h1>
+
+<h2> 
 <p align="center" color='#686868ff'>MAO-SMS-BOMBER<p/>
  <p align="center">MBOMB</p>
 </h2>
