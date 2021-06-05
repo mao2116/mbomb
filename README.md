@@ -2,7 +2,7 @@
 
 <h2> 
 <p align="center" color='#686868ff'>MAO-SMS-BOMBER<p/>
- <p align="center"><a href="https://www.facebook.com/mAoVirUs2116/">MBOMB<>/a</p>
+ <p align="center"><a href="https://www.facebook.com/mAoVirUs2116/">MBOMB</a></p>
 </h2>
 
 ### Auther :
