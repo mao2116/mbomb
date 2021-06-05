@@ -8,12 +8,12 @@
 ### Auther :
 <p align="center">
 <a href="https://github.com/mao2116"><img title="Github" src="https://img.shields.io/badge/mao2116-grey?style=for-the-badge&logo=github"></a> </p>
-<br/>
+
 <p align="center"> 
 <a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
-</br>
-<h2> INSTALLATION  :</h2>
+
+## INSTALLATION  :
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `pkg install python -y`
